@@ -1,7 +1,7 @@
 {
 	"id": "nodebb-plugin-archive-deleted",
 	"url": "https://github.com/ariastel/nodebb-plugin-archive-deleted",
-	"library": "./library.js",
+	"main": "./library.js",
 	"hooks": [
 		{
 			"hook": "static:app.load",
