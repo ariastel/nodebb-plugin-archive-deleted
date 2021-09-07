@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "nbbpm": {
-    "compatibility": "^1.16.x"
+    "compatibility": "^1.17.x"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
